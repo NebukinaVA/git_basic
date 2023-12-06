@@ -1,4 +1,5 @@
 # git_basic
+```
 *   commit bbd1a8e09d5645d5b2dbd96e5fd721864feb8863 (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: 2309248 11c870f
 | | Author: NebukinaVA <sadpool@mail.ru>
@@ -72,3 +73,4 @@
   Date:   Wed Dec 6 12:18:41 2023 +0300
 
       Initial commit
+```
